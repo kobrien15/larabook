@@ -16,3 +16,4 @@ $I->click('Sign Up');
 
 $I->seeCurrentUrlEquals('');
 $I->see('Welcome to Larabook!');
+
