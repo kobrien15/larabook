@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"overall_",
+				"overall_array"
+			],
+			[
+				"sae1",
+				"sae1scores"
+			],
+			[
+				"ae2",
+				"ae2scores"
+			],
+			[
+				"ae1",
+				"ae1scores"
+			],
+			[
+				"sa",
+				"sae2_comments"
+			],
+			[
+				"sae",
+				"sae1_comments"
+			],
+			[
+				"pe",
+				"pe3_yes"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"with",
+				"withInput"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"D_add",
+				"D_address-line2"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"Sess",
+				"Session	Laravel: Session::start()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 2051,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitqu",
+				"Git: Quick Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"gener",
+				"Laravel Generate: Resource"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"snycs",
+				"Set Syntax: CSS"
+			],
+			[
+				"snipp html",
+				"Snippet: html"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"blade",
+				"Snippet: blade-layout"
+			],
+			[
+				"larave",
+				"Snippet: Laravel - Basic Controller"
+			],
+			[
+				"laravel",
+				"Snippet: Laravel: Bundle::all()"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"snipp lar",
+				"Snippet: Laravel - Basic Model"
+			],
+			[
+				"Snipp lar",
+				"Snippet: Laravel - Basic Controller"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Laravel - Basic Model"
+			],
+			[
+				"snipp lara",
+				"Snippet: Laravel: Auth::login()"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kobrien/.bash_aliases",
+		"/Users/kobrien/Documents/code/Homestead/scripts/homestead.rb",
+		"/Users/kobrien/Documents/code/larabook/npm-debug.log",
+		"/Users/kobrien/Documents/code/larabook/package.json",
+		"/Users/kobrien/Documents/code/larabook/node_modules/gulp/node_modules/vinyl-fs/node_modules/lodash/package.json",
+		"/Users/kobrien/Documents/code/larabook/app/views/pages/home.blade.php",
+		"/Users/kobrien/Documents/code/larabook/app/views/layouts/partials/nav.blade.php",
+		"/Users/kobrien/Documents/code/larabook/app/views/layouts/default.blade.php",
+		"/Users/kobrien/Documents/code/larabook/app/assets/sass/main.sass",
+		"/Users/kobrien/Documents/code/larabook/app/routes.php",
+		"/Users/kobrien/Documents/code/larabook/app/controllers/PagesController.php",
+		"/Users/kobrien/Documents/code/larabook/composer.json",
+		"/Users/kobrien/Documents/code/larabook/app/config/database.php",
+		"/Users/kobrien/Documents/code/larabook/app/config/app.php",
+		"/Users/kobrien/Documents/code/larabook/app/config/local/database.php",
+		"/Users/kobrien/Documents/code/larabook/.env.local.php",
+		"/Users/kobrien/Documents/code/Homestead/aliases",
+		"/private/etc/bashrc",
+		"/Users/kobrien/Documents/code/Homestead/Homestead.yaml",
+		"/private/etc/hosts",
+		"/Users/kobrien/Documents/GitHub/kefile/app/views/hello.php",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/kobrien/.ssh/id_rsa.pub",
+		"/Users/kobrien/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Default (OSX).sublime-keymap",
+		"/Users/kobrien/Dropbox/Documents/id_rsa.pub",
+		"/Users/kobrien/Dropbox/Bar/RULE STATEMENTS",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#8/reminder.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#7/chosen.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#9/chosen.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#6/reminder.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#5/mail.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#4/SelectionController.php",
+		"/Users/kobrien/Dropbox/Crim Law Practice Question Notes",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#9/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#12/SelectionController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#11/SessionsController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#8/index.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#7/addstaff.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#5/add.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#4/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#1/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#0/SelectionController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#3/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#2/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#3/index.html",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#5/index.html",
+		"/Users/kobrien/Downloads/bootstrap/css/bootstrap.css",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#1/bootstrap.min.css",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#47/routes.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#50/index.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#51/nav.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#54/show.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#49/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#52/chosen.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#41/SelectionController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#39/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#53/transition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#44/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#46/staff.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#48/staff.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#45/index.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#43/2014_05_23_231736_add_select_to_competitors_table.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#42/2014_04_14_164912_add_comments_to_competitors_table.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#40/TransitionController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#30/show.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#25/transition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#19/staff.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#21/nav.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#32/nav.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#24/TransitionController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#10/routes.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#1/SelectionController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#38/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#36/index.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#37/show.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#34/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#35/add.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#33/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#31/master.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#28/add.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#29/SessionsController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#27/SessionsController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#26/create.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#8/update.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#22/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#6/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#15/show.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#23/staff.blade copy.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#20/add.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#18/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#17/index.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#16/identity.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#5/create.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#3/identity.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#14/index.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#13/competition.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#12/show.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#11/nav.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#9/show.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#7/competition.blade copy.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#4/addstaff.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#2/identity.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#0/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#142/composer.json",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#139/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#138/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#137/error_log",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#140/composer.json",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#136/create.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#125/create.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#124/master.blade.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#135/media-upload.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#133/upload.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#129/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#121/routes.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#134/wp-settings.php",
+		"/Users/kobrien/Downloads/accesslog-kansaslawjournal.com-05-20-2014-15-15-55-0000",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#122/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#123/ArticleController.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#119/routes.php",
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#118/routes.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"base",
+			"name",
+			"'",
+			"$competitor",
+			"$competitors",
+			"<dd>",
+			"</dd>",
+			"</dt>",
+			"<dt>",
+			"POST",
+			"[",
+			"font-family",
+			"a:hover",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"article",
+			"OrderBy",
+			"tinyMCE.init",
+			"plugins",
+			"btn-primary",
+			"pull-right",
+			"ME_status",
+			"pubedart",
+			"pe_sub",
+			"MM/YY",
+			"width:100%",
+			"ME_status",
+			"submission",
+			"staffer",
+			"('/');",
+			"P_full-name",
+			"data-action",
+			"<p class=\"help-block\"></p>",
+			"col-sm-5 control-label",
+			"col-sm-3 control-label",
+			"col-sm-6",
+			"col-sm-2 control-label",
+			"inputmask",
+			"col-sm-6",
+			"col-sm-2",
+			"case",
+			"$id",
+			"{id}",
+			"0",
+			"$password",
+			"Hash",
+			"essential",
+			"CourtCase",
+			"create",
+			"dynamic",
+			"extension=php_mcrypt.dll",
+			"	\n",
+			"the name",
+			"www"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"$chosen",
+			"$chosens",
+			"",
+			"array(",
+			")",
+			"array(",
+			")",
+			"array(",
+			")",
+			"array(",
+			")",
+			"array(",
+			")",
+			"array(",
+			"btn-primary pull-right",
+			"",
+			"status",
+			"article",
+			"pubedart",
+			"MM/DD",
+			"status",
+			"article",
+			"articles",
+			"P_first-name",
+			"",
+			"col-sm-2 control-label",
+			"col-sm-5 control-label",
+			"col-sm-4",
+			"col-sm-4 control-label",
+			"col-sm-3 control-label",
+			"col-sm-5",
+			"",
+			"$username",
+			"$casenumber",
+			"{username}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-push":
+	{
+		"height": 112.0
+	},
+	"project": "larabookgh.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"app/routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
