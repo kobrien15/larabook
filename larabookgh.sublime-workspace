@@ -76,10 +76,10 @@
 	"buffers":
 	[
 		{
-			"file": "readme.md",
+			"file": "app/config/database.php",
 			"settings":
 			{
-				"buffer_size": 2051,
+				"buffer_size": 3368,
 				"line_ending": "Unix"
 			}
 		}
@@ -370,6 +370,9 @@
 	},
 	"file_history":
 	[
+		"/Users/kobrien/Documents/code/larabook/app/config/database.php",
+		"/Users/kobrien/Documents/GitHub/larabook/packages.json",
+		"/Users/kobrien/Documents/GitHub/larabook/readme.md",
 		"/Users/kobrien/.bash_aliases",
 		"/Users/kobrien/Documents/code/Homestead/scripts/homestead.rb",
 		"/Users/kobrien/Documents/code/larabook/npm-debug.log",
@@ -382,7 +385,6 @@
 		"/Users/kobrien/Documents/code/larabook/app/routes.php",
 		"/Users/kobrien/Documents/code/larabook/app/controllers/PagesController.php",
 		"/Users/kobrien/Documents/code/larabook/composer.json",
-		"/Users/kobrien/Documents/code/larabook/app/config/database.php",
 		"/Users/kobrien/Documents/code/larabook/app/config/app.php",
 		"/Users/kobrien/Documents/code/larabook/app/config/local/database.php",
 		"/Users/kobrien/Documents/code/larabook/.env.local.php",
@@ -495,9 +497,7 @@
 		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#134/wp-settings.php",
 		"/Users/kobrien/Downloads/accesslog-kansaslawjournal.com-05-20-2014-15-15-55-0000",
 		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#122/ArticleController.php",
-		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#123/ArticleController.php",
-		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#119/routes.php",
-		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#118/routes.php"
+		"/Users/kobrien/Library/Caches/com.binarynights.ForkLift2/#123/ArticleController.php"
 	],
 	"find":
 	{
@@ -636,27 +636,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": "readme.md",
+					"file": "app/config/database.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2051,
+						"buffer_size": 3368,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1957,
+								1957
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 874.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
